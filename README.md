@@ -1,2 +1,1 @@
-# ETL_WEATHER
-INGESTION OF DATA FROM WEATHER, TRANSFORMING WITH REQUIRED COLUMNS AND LOADING IT TO POSTGRES IN DOCKER AND CONNECTING WITH DBEAVER
+this is a ETL_weather ingestion, transformation and loading to postgres pipeline using airflow
